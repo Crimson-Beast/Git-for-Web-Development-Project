@@ -1,2 +1,42 @@
 hello world!!!
 random text to type blah blah blah
+
+https://codepen.io/Crimson_beast/pen/vYgWRqK?editors=1100
+
+1. Its HTML code that can be read and understood what the tag will accomplish 
+2. Its used to create a blueprint of information that a browser can read
+3. an attribute supplies data to en element. an attriute follows the opening tag. 
+4. h1 tag is used for the title for the whole page. it should only be used once.
+5. The tags <a> and <img>
+6. a title with the <h1> tag and possibly a small <p> paragraph 
+7. its an attribute that can be identified in css using a name that is connected to the id 
+8. p, div, h1, body
+9. only one time 
+10. creates a way to have css slecet an element easier 
+11. p, div, h1, body 
+12. multiple times 
+13. create a button and connect the link to the button 
+14. creating a alternate image in case the main one doesnt exist
+15. with #id-name
+16. a section is semantic and a div is non-semantic 
+17. css is used to decorate your webpage and give it character
+18. h2 {}
+19. class can be used to select multiple <p> ex: <p class"first"> <p class"first"> both will take what ever css command you tell "first" to use however with id  ex: <p id="second"> and <p id="second"> the 2nd id will not resond ot css
+20. .class-name
+21. p .human {}
+22. a parent child selector is used to be a little more specific to with parts of the Html you want to change so instead if changing all <p> to blue text your able to change only <p> within a <div> (  div p {}  )
+23. .sidebar {} 
+24. the pseudo selector is used to define a special state of a selector
+25. line-height
+26. letter-spacing
+27. p { text-transform:captialize } or p { text-tranform:lowercase }
+28. div { border:10px dotted black }
+29. body {} 
+30. /* comment */
+31. pwd 
+32. ls
+33. -rm , the wrong destination can delete all work and possibly important computer files 
+34. so you can go back to previous versions 
+35. when you have completed your task or have progressed, otherwise commit to your branch frequently to no risk lose of work
+36. git push 
+37. Walk me through Lambda's git flow.
